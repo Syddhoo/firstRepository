@@ -3,3 +3,5 @@ This is my second text file
 I've made some changes here, let's see what happens.
 
 I'm gonna make a change one more time from git hub and see what happens.
+
+Another change in notepad
